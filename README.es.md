@@ -1,3 +1,10 @@
+# PRIMER TRABAJO HECHO CON HTML Y CSS 
+Primer proyecto para el curso de full stack developer de 
+4geeks. 
+- Impresiones: me ha costado mucho dar con la tecla para 
+incluir el proyecto en un repositorio de mi perfil de github 
+sin poder entender los errores que me aparecian. Finalmente he conseguido arreglarlo y este es el primero que mando. Espero esté todo correcto y los siguientes me costarán mucho menos.
+
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
 ¿A quién no le gustan las postales? Este es uno de tus primeros ejercicios (si no es el primero) y es divertido y relativamente fácil :)
