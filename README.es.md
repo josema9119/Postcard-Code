@@ -1,9 +1,7 @@
 # PRIMER TRABAJO HECHO CON HTML Y CSS 
 Primer proyecto para el curso de full stack developer de 
 4geeks. 
-- Impresiones: me ha costado mucho dar con la tecla para 
-incluir el proyecto en un repositorio de mi perfil de github 
-sin poder entender los errores que me aparecian. Finalmente he conseguido arreglarlo y este es el primero que mando. Espero esté todo correcto y los siguientes me costarán mucho menos.
+Para crear el postcard comencé creando 3 <div> dentro de uno el cual a traves de .css apliqué las medidas y atributos que debian de tener la tarjeta. Los tres de dentro del div postCard los clasifique en postcard-header, postcard-body y post-footer. Para el post header apliqué un h1 y una img los cuales los coloqué en sus respectivos sitios utilizando margin, padding, width y heigh, además de aplicar al div post-header un display-flex para que ambos elementos aparecieran en la misma linea. Respecto al div post-body, lo dividí en dos y apliqué un display flex para que apareciesen uno ala lado del otro. En el derecho inserté los inputs con un placeholder para indicar el valor que queremos que se inserte en el  y en el postcard-footer meto un boton con display-flex y margin auto para que se quede centrado.
 
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
